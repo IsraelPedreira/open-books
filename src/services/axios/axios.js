@@ -1,7 +1,7 @@
-const axios = require('axios')
+import axios from "axios";
 
 const instance = axios.create({
     baseURL: 'https://gutendex.com/',
   });
 
-module.exports = instance
+export default instance
