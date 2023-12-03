@@ -1,0 +1,1160 @@
+{
+	"count": 639,
+	"next": "https://gutendex.com/books/?copyright=false&languages=pt&page=2",
+	"previous": null,
+	"results": [
+		{
+			"id": 31552,
+			"title": "Novo dicionário da língua portuguesa",
+			"authors": [
+				{
+					"name": "Figueiredo, Cândido de",
+					"birth_year": 1846,
+					"death_year": 1925
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Portuguese language -- Dictionaries"
+			],
+			"bookshelves": [],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/31552.html.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/31552.epub3.images",
+				"application/pdf": "https://www.gutenberg.org/files/31552/31552-pdf.pdf",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/31552.kf8.images",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/31552.txt.utf-8",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/31552/31552-0.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/31552.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/31552/pg31552.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/31552/pg31552-h.zip"
+			},
+			"download_count": 3744
+		},
+		{
+			"id": 3333,
+			"title": "Os Lusíadas",
+			"authors": [
+				{
+					"name": "Camões, Luís de",
+					"birth_year": null,
+					"death_year": 1580
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Epic poetry, Portuguese",
+				"Explorers -- Portugal -- Poetry",
+				"Gama, Vasco da, 1469-1524 -- Poetry",
+				"India -- Discovery and exploration -- Poetry",
+				"Portugal -- Colonies -- Asia -- Poetry",
+				"Portuguese poetry -- Classical period, 1500-1700"
+			],
+			"bookshelves": [
+				"PT Poesia",
+				"Poetry"
+			],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/3333.html.images",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/3333/3333-h/3333-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/3333.epub3.images",
+				"application/msword": "https://www.gutenberg.org/files/3333/3333-doc.doc",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3333.kf8.images",
+				"text/plain": "https://www.gutenberg.org/ebooks/3333.txt.utf-8",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/3333/3333-8.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/3333.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/3333/pg3333.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/3333/pg3333-h.zip"
+			},
+			"download_count": 1072
+		},
+		{
+			"id": 62383,
+			"title": "A Biblia Sagrada, Contendo o Velho e o Novo Testamento",
+			"authors": [],
+			"translators": [
+				{
+					"name": "Almeida, João Ferreira d'",
+					"birth_year": 1628,
+					"death_year": 1691
+				}
+			],
+			"subjects": [
+				"Bible"
+			],
+			"bookshelves": [],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/62383.html.images",
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/62383/62383-h/62383-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/62383.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/62383.kf8.images",
+				"text/plain": "https://www.gutenberg.org/ebooks/62383.txt.utf-8",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/62383/62383-0.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/62383.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/62383/pg62383.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/62383/pg62383-h.zip"
+			},
+			"download_count": 709
+		},
+		{
+			"id": 55752,
+			"title": "Dom Casmurro",
+			"authors": [
+				{
+					"name": "Machado de Assis",
+					"birth_year": 1839,
+					"death_year": 1908
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Adultery -- Fiction",
+				"Authorship -- Fiction",
+				"Catholic Church -- Fiction",
+				"Reminiscing in old age -- Fiction"
+			],
+			"bookshelves": [],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/55752.txt.utf-8",
+				"text/html": "https://www.gutenberg.org/ebooks/55752.html.images",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/55752/55752-h/55752-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/55752.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/55752.kf8.images",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/55752/55752-8.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/55752.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/55752/pg55752.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/55752/pg55752-h.zip"
+			},
+			"download_count": 560
+		},
+		{
+			"id": 40409,
+			"title": "Os Maias: episodios da vida romantica",
+			"authors": [
+				{
+					"name": "Queirós, Eça de",
+					"birth_year": 1845,
+					"death_year": 1900
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Portugal -- Fiction"
+			],
+			"bookshelves": [
+				"PT Romance"
+			],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/40409.html.images",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/40409/40409-h/40409-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/40409.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/40409.kf8.images",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/40409/40409-0.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/40409.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/40409/pg40409.cover.medium.jpg",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/40409.txt.utf-8",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/40409/pg40409-h.zip"
+			},
+			"download_count": 503
+		},
+		{
+			"id": 34387,
+			"title": "Historia de Portugal: Tomo I",
+			"authors": [
+				{
+					"name": "Oliveira Martins, J. P. (Joaquim Pedro)",
+					"birth_year": 1845,
+					"death_year": 1894
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Portugal -- History"
+			],
+			"bookshelves": [
+				"PT História"
+			],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/34387.html.images",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/34387/34387-h/34387-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/34387.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/34387.kf8.images",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/34387.txt.utf-8",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/34387/34387-8.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/34387.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/34387/pg34387.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/34387/pg34387-h.zip"
+			},
+			"download_count": 425
+		},
+		{
+			"id": 70819,
+			"title": "Contos",
+			"authors": [
+				{
+					"name": "Almeida, Fialho de",
+					"birth_year": 1857,
+					"death_year": 1911
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Portuguese fiction -- 19th century",
+				"Short stories, Portuguese"
+			],
+			"bookshelves": [],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/70819.html.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/70819.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/70819.kf8.images",
+				"text/plain": "https://www.gutenberg.org/ebooks/70819.txt.utf-8",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/files/70819/70819-0.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/70819.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/70819/pg70819.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/files/70819/70819-0.zip"
+			},
+			"download_count": 403
+		},
+		{
+			"id": 31509,
+			"title": "Obras Completas de Luis de Camões, Tomo II",
+			"authors": [
+				{
+					"name": "Camões, Luís de",
+					"birth_year": null,
+					"death_year": 1580
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Portuguese literature -- 16th century",
+				"Portuguese poetry -- Classical period, 1500-1700"
+			],
+			"bookshelves": [
+				"PT Biografia",
+				"PT Poesia"
+			],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/31509.html.images",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/31509/31509-h/31509-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/31509.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/31509.kf8.images",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/31509.txt.utf-8",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/31509/31509-8.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/31509.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/31509/pg31509.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/31509/pg31509-h.zip"
+			},
+			"download_count": 392
+		},
+		{
+			"id": 71031,
+			"title": "Principios e questões de philosophia politica (Vol. 1 of 2)",
+			"authors": [
+				{
+					"name": "Cândido, António",
+					"birth_year": 1850,
+					"death_year": 1922
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Law -- Philosophy",
+				"Representative government and representation",
+				"Suffrage"
+			],
+			"bookshelves": [],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/71031.html.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/71031.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/71031.kf8.images",
+				"text/plain": "https://www.gutenberg.org/ebooks/71031.txt.utf-8",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/files/71031/71031-0.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/71031.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/71031/pg71031.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/files/71031/71031-0.zip"
+			},
+			"download_count": 359
+		},
+		{
+			"id": 31971,
+			"title": "O crime do padre Amaro, scenas da vida devota",
+			"authors": [
+				{
+					"name": "Queirós, Eça de",
+					"birth_year": 1845,
+					"death_year": 1900
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Catholic Church -- Portugal -- Fiction",
+				"Portugal -- Fiction",
+				"Priests -- Portugal -- Fiction"
+			],
+			"bookshelves": [
+				"PT Romance"
+			],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/31971.html.images",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/31971/31971-h/31971-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/31971.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/31971.kf8.images",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/31971.txt.utf-8",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/31971/31971-8.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/31971.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/31971/pg31971.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/31971/pg31971-h.zip"
+			},
+			"download_count": 335
+		},
+		{
+			"id": 58689,
+			"title": "Poesias Eroticas, Burlescas, e Satyricas de M.M. de Barbosa du Bocage: não comprehendidas na edição que das obras d'este poeta se publicou em Lisboa, no anno de MDCCCLIII.",
+			"authors": [
+				{
+					"name": "Bocage, Manuel Maria Barbosa du",
+					"birth_year": 1765,
+					"death_year": 1805
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Erotic poetry, Portuguese"
+			],
+			"bookshelves": [],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/58689.txt.utf-8",
+				"text/html": "https://www.gutenberg.org/ebooks/58689.html.images",
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/58689/58689-h/58689-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/58689.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/58689.kf8.images",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/58689/58689-0.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/58689.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/58689/pg58689.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/58689/pg58689-h.zip"
+			},
+			"download_count": 299
+		},
+		{
+			"id": 18220,
+			"title": "A Cidade e as Serras",
+			"authors": [
+				{
+					"name": "Queirós, Eça de",
+					"birth_year": 1845,
+					"death_year": 1900
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Portugal -- Fiction"
+			],
+			"bookshelves": [
+				"PT Romance"
+			],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/18220.html.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/18220.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/18220.kf8.images",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/18220.txt.utf-8",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/18220.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/18220/pg18220.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/files/18220/18220-0.zip"
+			},
+			"download_count": 282
+		},
+		{
+			"id": 54829,
+			"title": "Memorias Posthumas de Braz Cubas",
+			"authors": [
+				{
+					"name": "Machado de Assis",
+					"birth_year": 1839,
+					"death_year": 1908
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Brazil -- Fiction",
+				"Dead -- Fiction",
+				"Humorous stories",
+				"Rich people -- Fiction"
+			],
+			"bookshelves": [],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/54829.txt.utf-8",
+				"text/html": "https://www.gutenberg.org/ebooks/54829.html.images",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/54829/54829-h/54829-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/54829.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/54829.kf8.images",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/54829/54829-8.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/54829.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/54829/pg54829.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/54829/pg54829-h.zip"
+			},
+			"download_count": 273
+		},
+		{
+			"id": 71871,
+			"title": "Portugal contemporaneo, Vol. 2 (of 2)",
+			"authors": [
+				{
+					"name": "Oliveira Martins, J. P. (Joaquim Pedro)",
+					"birth_year": 1845,
+					"death_year": 1894
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Portugal -- History -- 1789-1900"
+			],
+			"bookshelves": [],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/71871.html.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/71871.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/71871.kf8.images",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/71871.txt.utf-8",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/71871.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/71871/pg71871.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/71871/pg71871-h.zip"
+			},
+			"download_count": 271
+		},
+		{
+			"id": 31347,
+			"title": "Contos",
+			"authors": [
+				{
+					"name": "Queirós, Eça de",
+					"birth_year": 1845,
+					"death_year": 1900
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Fiction",
+				"Short stories"
+			],
+			"bookshelves": [
+				"PT Contos"
+			],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/31347.html.images",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/31347/31347-h/31347-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/31347.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/31347.kf8.images",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/31347.txt.utf-8",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/31347/31347-8.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/31347.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/31347/pg31347.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/31347/pg31347-h.zip"
+			},
+			"download_count": 270
+		},
+		{
+			"id": 25667,
+			"title": "Hamlet: Drama em cinco Actos",
+			"authors": [
+				{
+					"name": "Shakespeare, William",
+					"birth_year": 1564,
+					"death_year": 1616
+				}
+			],
+			"translators": [
+				{
+					"name": "Luís I, Rei de Portugal",
+					"birth_year": 1838,
+					"death_year": 1889
+				}
+			],
+			"subjects": [
+				"Denmark -- Drama",
+				"Fathers -- Death -- Drama",
+				"Hamlet (Legendary character) -- Drama",
+				"Kings and rulers -- Succession -- Drama",
+				"Murder victims' families -- Drama",
+				"Princes -- Drama",
+				"Revenge -- Drama",
+				"Tragedies"
+			],
+			"bookshelves": [
+				"Best Books Ever Listings",
+				"PT Teatro"
+			],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/25667.html.images",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/25667/25667-h/25667-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/25667.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/25667.kf8.images",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/25667.txt.utf-8",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/25667/25667-8.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/25667.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/25667/pg25667.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/25667/pg25667-h.zip"
+			},
+			"download_count": 232
+		},
+		{
+			"id": 30510,
+			"title": "Perolas e Diamantes: Contos Infantis",
+			"authors": [
+				{
+					"name": "Grimm, Jacob",
+					"birth_year": 1785,
+					"death_year": 1863
+				},
+				{
+					"name": "Grimm, Wilhelm",
+					"birth_year": 1786,
+					"death_year": 1859
+				}
+			],
+			"translators": [
+				{
+					"name": "Marques Junior, Henrique",
+					"birth_year": 1881,
+					"death_year": null
+				}
+			],
+			"subjects": [
+				"Children's stories, German -- Translations into Portuguese",
+				"Fairy tales -- Germany"
+			],
+			"bookshelves": [
+				"PT Contos",
+				"PT Infantil e Juvenil"
+			],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/30510.html.images",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/30510/30510-h/30510-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/30510.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/30510.kf8.images",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/30510.txt.utf-8",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/30510/30510-8.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/30510.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/30510/pg30510.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/30510/pg30510-h.zip"
+			},
+			"download_count": 216
+		},
+		{
+			"id": 67767,
+			"title": "A Mãe",
+			"authors": [
+				{
+					"name": "Gorky, Maksim",
+					"birth_year": 1868,
+					"death_year": 1936
+				}
+			],
+			"translators": [
+				{
+					"name": "Lacerda, Augusto de",
+					"birth_year": 1864,
+					"death_year": 1926
+				},
+				{
+					"name": "Persky, Serge",
+					"birth_year": 1870,
+					"death_year": 1938
+				}
+			],
+			"subjects": [
+				"Mothers and sons -- Fiction",
+				"Revolutionaries -- Russia -- Fiction",
+				"Russia -- Fiction",
+				"Russia -- Social conditions -- 1801-1917 -- Fiction",
+				"Russian fiction -- Translations into Portuguese",
+				"Social change -- Russia -- Fiction",
+				"Working class -- Political activity -- Russia -- Fiction"
+			],
+			"bookshelves": [],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/67767.html.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/67767.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/67767.kf8.images",
+				"text/plain": "https://www.gutenberg.org/ebooks/67767.txt.utf-8",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/files/67767/67767-0.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/67767.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/67767/pg67767.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/files/67767/67767-0.zip"
+			},
+			"download_count": 195
+		},
+		{
+			"id": 27599,
+			"title": "Flores do Campo",
+			"authors": [
+				{
+					"name": "Deus, João de",
+					"birth_year": 1830,
+					"death_year": 1896
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Portuguese poetry -- 19th century"
+			],
+			"bookshelves": [
+				"PT Poesia"
+			],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/27599.html.images",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/27599/27599-h/27599-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/27599.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/27599.kf8.images",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/27599.txt.utf-8",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/27599/27599-8.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/27599.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/27599/pg27599.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/27599/pg27599-h.zip"
+			},
+			"download_count": 194
+		},
+		{
+			"id": 63080,
+			"title": "A cidade do vicio",
+			"authors": [
+				{
+					"name": "Almeida, Fialho de",
+					"birth_year": 1857,
+					"death_year": 1911
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Portuguese fiction -- 19th century",
+				"Short stories, Portuguese"
+			],
+			"bookshelves": [],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/63080.html.images",
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/63080/63080-h/63080-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/63080.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/63080.kf8.images",
+				"text/plain": "https://www.gutenberg.org/ebooks/63080.txt.utf-8",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/63080/63080-0.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/63080.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/63080/pg63080.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/63080/pg63080-h.zip"
+			},
+			"download_count": 184
+		},
+		{
+			"id": 15047,
+			"title": "Bases da ortografia portuguesa",
+			"authors": [
+				{
+					"name": "Abreu, G. de Vasconcellos (Guilherme)",
+					"birth_year": 1842,
+					"death_year": 1907
+				},
+				{
+					"name": "Gonçalves Viana, A. R. (Aniceto Reis)",
+					"birth_year": 1840,
+					"death_year": 1914
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Portuguese language -- Orthography and spelling"
+			],
+			"bookshelves": [
+				"PT Língua Portuguesa"
+			],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/15047.html.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/15047.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/15047.kf8.images",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/15047.txt.utf-8",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/15047/15047-0.txt",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/15047/15047-8.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/15047.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/15047/pg15047.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/15047/pg15047-h.zip"
+			},
+			"download_count": 181
+		},
+		{
+			"id": 29484,
+			"title": "A Revolução Portugueza: O 31 de Janeiro (Porto 1891)",
+			"authors": [
+				{
+					"name": "Abreu, Francisco Jorge de",
+					"birth_year": 1878,
+					"death_year": 1932
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Portugal -- History -- Revolution, 1891",
+				"Portugal -- Politics and government -- 1889-1908"
+			],
+			"bookshelves": [
+				"PT História"
+			],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/29484.html.images",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/29484/29484-h/29484-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/29484.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/29484.kf8.images",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/29484.txt.utf-8",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/29484/29484-8.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/29484.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/29484/pg29484.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/29484/pg29484-h.zip"
+			},
+			"download_count": 176
+		},
+		{
+			"id": 46334,
+			"title": "Cartilha Maternal; ou, Arte de Leitura",
+			"authors": [
+				{
+					"name": "Deus, João de",
+					"birth_year": 1830,
+					"death_year": 1896
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Portuguese language -- Orthography and spelling",
+				"Portuguese language -- Orthography and spelling -- Handbooks, manuals, etc.",
+				"Portuguese language -- Study and teaching"
+			],
+			"bookshelves": [],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/46334.html.images",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/46334/46334-h/46334-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/46334.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/46334.kf8.images",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/46334/46334-0.txt",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/46334/46334-8.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/46334.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/46334/pg46334.cover.medium.jpg",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/46334.txt.utf-8",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/46334/pg46334-h.zip"
+			},
+			"download_count": 166
+		},
+		{
+			"id": 26988,
+			"title": "Amor de Salvação",
+			"authors": [
+				{
+					"name": "Castelo Branco, Camilo",
+					"birth_year": 1825,
+					"death_year": 1890
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Portuguese fiction -- 19th century"
+			],
+			"bookshelves": [
+				"PT Romance"
+			],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/26988.html.images",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/26988/26988-h/26988-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/26988.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/26988.kf8.images",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/26988.txt.utf-8",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/26988/26988-8.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/26988.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/26988/pg26988.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/26988/pg26988-h.zip"
+			},
+			"download_count": 159
+		},
+		{
+			"id": 61653,
+			"title": "Poesias Completas",
+			"authors": [
+				{
+					"name": "Machado de Assis",
+					"birth_year": 1839,
+					"death_year": 1908
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Brazilian poetry"
+			],
+			"bookshelves": [],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/61653.txt.utf-8",
+				"text/html": "https://www.gutenberg.org/ebooks/61653.html.images",
+				"text/html; charset=utf-8": "https://www.gutenberg.org/files/61653/61653-h/61653-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/61653.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/61653.kf8.images",
+				"text/plain; charset=utf-8": "https://www.gutenberg.org/files/61653/61653-0.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/61653.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/61653/pg61653.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/61653/pg61653-h.zip"
+			},
+			"download_count": 150
+		},
+		{
+			"id": 69187,
+			"title": "O Cortiço",
+			"authors": [
+				{
+					"name": "Azevedo, Aluísio",
+					"birth_year": 1857,
+					"death_year": 1913
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Brazil -- Social life and customs -- 19th century -- Fiction",
+				"Historical fiction",
+				"Immigrants -- Brazil -- Fiction",
+				"Landlords -- Fiction",
+				"Man-woman relationships -- Fiction",
+				"Slums -- Fiction"
+			],
+			"bookshelves": [],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/69187.html.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/69187.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69187.kf8.images",
+				"text/plain": "https://www.gutenberg.org/ebooks/69187.txt.utf-8",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69187/69187-0.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/69187.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/69187/pg69187.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/files/69187/69187-0.zip"
+			},
+			"download_count": 150
+		},
+		{
+			"id": 38496,
+			"title": "Ubirajara: Lenda Tupi",
+			"authors": [
+				{
+					"name": "Alencar, José Martiniano de",
+					"birth_year": 1829,
+					"death_year": 1877
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Fiction"
+			],
+			"bookshelves": [],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/38496.html.images",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/38496/38496-h/38496-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/38496.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/38496.kf8.images",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/38496/38496-8.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/38496.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/38496/pg38496.cover.medium.jpg",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/38496.txt.utf-8",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/38496/pg38496-h.zip"
+			},
+			"download_count": 149
+		},
+		{
+			"id": 70764,
+			"title": "Parnaso portuguez moderno : $b precedido de um estudo da poesia moderna portugueza",
+			"authors": [],
+			"translators": [],
+			"subjects": [
+				"Brazilian poetry",
+				"Galician poetry",
+				"Portuguese poetry"
+			],
+			"bookshelves": [],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/70764.html.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/70764.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/70764.kf8.images",
+				"text/plain": "https://www.gutenberg.org/ebooks/70764.txt.utf-8",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/files/70764/70764-0.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/70764.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/70764/pg70764.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/files/70764/70764-0.zip"
+			},
+			"download_count": 144
+		},
+		{
+			"id": 29435,
+			"title": "O que fazem mulheres: Romance philosophico",
+			"authors": [
+				{
+					"name": "Castelo Branco, Camilo",
+					"birth_year": 1825,
+					"death_year": 1890
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Portuguese fiction -- 19th century"
+			],
+			"bookshelves": [
+				"PT Romance"
+			],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/29435.html.images",
+				"text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/29435/29435-h/29435-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/29435.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/29435.kf8.images",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/29435.txt.utf-8",
+				"text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/29435/29435-8.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/29435.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/29435/pg29435.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/29435/pg29435-h.zip"
+			},
+			"download_count": 142
+		},
+		{
+			"id": 30070,
+			"title": "Bom-senso e bom-gosto: carta ao excelentissimo senhor Antonio Feliciano de Castilho",
+			"authors": [
+				{
+					"name": "Quental, Antero de",
+					"birth_year": 1842,
+					"death_year": 1891
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Castilho, Antonio Feliciano de, 1800-1875"
+			],
+			"bookshelves": [
+				"PT Política e Sociedade"
+			],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/30070.html.images",
+				"text/html; charset=iso-8859-15": "https://www.gutenberg.org/files/30070/30070-h/30070-h.htm",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/30070.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/30070.kf8.images",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/30070.txt.utf-8",
+				"text/plain; charset=iso-8859-15": "https://www.gutenberg.org/files/30070/30070-8.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/30070.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/30070/pg30070.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/cache/epub/30070/pg30070-h.zip"
+			},
+			"download_count": 142
+		},
+		{
+			"id": 70886,
+			"title": "Introdução á archeologia da peninsula Iberica",
+			"authors": [
+				{
+					"name": "Simões, Augusto Filipe",
+					"birth_year": 1835,
+					"death_year": 1884
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Portugal -- Antiquities",
+				"Spain -- Antiquities"
+			],
+			"bookshelves": [],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/70886.html.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/70886.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/70886.kf8.images",
+				"text/plain": "https://www.gutenberg.org/ebooks/70886.txt.utf-8",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/files/70886/70886-0.txt",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/70886.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/70886/pg70886.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/files/70886/70886-0.zip"
+			},
+			"download_count": 142
+		},
+		{
+			"id": 24824,
+			"title": "Os deputados brasileiros nas Côrtes Geraes de 1821",
+			"authors": [
+				{
+					"name": "Carvalho, Manuel Emílio Gomes de",
+					"birth_year": 1859,
+					"death_year": 1919
+				}
+			],
+			"translators": [],
+			"subjects": [
+				"Brazil -- History -- 1763-1822"
+			],
+			"bookshelves": [
+				"PT História"
+			],
+			"languages": [
+				"pt"
+			],
+			"copyright": false,
+			"media_type": "Text",
+			"formats": {
+				"text/html": "https://www.gutenberg.org/ebooks/24824.html.images",
+				"application/epub+zip": "https://www.gutenberg.org/ebooks/24824.epub3.images",
+				"application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/24824.kf8.images",
+				"text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/24824.txt.utf-8",
+				"application/rdf+xml": "https://www.gutenberg.org/ebooks/24824.rdf",
+				"image/jpeg": "https://www.gutenberg.org/cache/epub/24824/pg24824.cover.medium.jpg",
+				"application/octet-stream": "https://www.gutenberg.org/files/24824/24824-0.zip"
+			},
+			"download_count": 138
+		}
+	]
+}

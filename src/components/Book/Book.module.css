@@ -1,0 +1,39 @@
+.bookStyle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-width: 1rem;
+    margin: 5%;
+    width: 17rem;
+    padding-bottom: 2rem;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 7px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+    cursor: pointer
+}
+
+.bookStyle:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.title{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #000000;  
+    max-width: 90%;
+    padding: .3rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis
+}
+
+.bookCover{
+    height: 250px;
+    max-width: 80%;
+    object-fit: cover;
+    border: 2px solid #333;
+}

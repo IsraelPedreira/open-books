@@ -1,0 +1,41 @@
+.PageTittleContainer {
+    width: 100%;
+    max-height: 10vh;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.PageTittle {
+    font-size: 3.2rem;
+    letter-spacing: 0.5rem;
+    position: relative; 
+    cursor: pointer;
+}
+
+.PageTittle::after {
+    content: " ";
+    width: 0%;
+    height: 3px;
+    background-color: #000000;
+    position: absolute;
+    bottom: -0.5rem;
+    left: 0;
+    transition: width 0.5s ease-in-out; 
+}
+
+.title{
+    text-decoration: none;
+    color: #000000;
+    
+}
+
+.PageTittle:hover::after {
+    width: 100%;
+}
+
+@media screen and (max-width: 440px){
+    .PageTittle{
+        font-size: 2rem;
+    }
+}
