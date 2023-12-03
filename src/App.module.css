@@ -8,6 +8,23 @@
   align-items: center;
 }
 
+.bookButton{
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  font-family: 'Baskervville', serif;
+}
+
+.searchMessage {
+  display: flex;
+  justify-content: center;
+}
+
+.searchMessage p {
+  font-size: 1.3rem;
+}
+
 @media screen and (max-width: 945px){
   .grid{
       display: flex;

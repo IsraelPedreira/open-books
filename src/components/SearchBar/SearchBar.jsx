@@ -1,17 +1,19 @@
-
-
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import s from './SearchBar.module.css';
 
-function SearchBar({ onSearch }) {
+function SearchBar(props) {
   const [query, setQuery] = useState('');
 
   const handleInputChange = (event) => {
     setQuery(event.target.value);
   };
 
+  useEffect(() => {
+    props.setAppQuery(query);
+  }, [query, props.setAppQuery]);
+
   const handleSearch = () => {
-    onSearch(query);
+    props.onQuery();
   };
 
   return (
@@ -23,7 +25,9 @@ function SearchBar({ onSearch }) {
         value={query}
         onChange={handleInputChange}
       />
-      <button onClick={handleSearch} className={s.searchButton}>Buscar</button>
+      <button onClick={handleSearch} className={s.searchButton}>
+        Buscar
+      </button>
     </div>
   );
 }

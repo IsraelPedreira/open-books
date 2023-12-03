@@ -19,9 +19,15 @@
     height: 3px;
     background-color: #000000;
     position: absolute;
-    bottom: -2.3rem;
+    bottom: -0.5rem;
     left: 0;
     transition: width 0.5s ease-in-out; 
+}
+
+.title{
+    text-decoration: none;
+    color: #000000;
+    
 }
 
 .PageTittle:hover::after {
