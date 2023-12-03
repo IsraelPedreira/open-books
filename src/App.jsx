@@ -5,18 +5,21 @@ import Skeleton from 'react-loading-skeleton';
 import Book from './components/Book/Book';
 import PageTittle from './components/PageTittle/PageTittle';
 import SearchBar from './components/SearchBar/SearchBar';
-import PopUp from './components/PopUp/PopUp';
+import { Footer } from './components/Footer/Footer';
 
 function App() {
   const [books, setBooks] = useState([]);
-  const [popUp, setPopUp] = useState(false);
-  const [bookInfos, setBookInfos] = useState({});
   const [query, setQuery] = useState('');
+  const [data, setData] = useState(null);
+  const [page, setPage] = useState(null);
   const [searchMessage, setSearchMessage] = useState('');
 
   const getBooks = async () => {
     if (query === '') {
-      const response = await instance.get('books?languages=pt&copyright=false');
+      console.log(page);
+      const response = await instance.get(`books?languages=pt&copyright=false&page=${page}`);
+
+      setData(response.data);
       setBooks(response.data.results);
       setSearchMessage('');
     } else {
@@ -34,9 +37,6 @@ function App() {
     }
   };
 
-  useEffect(() => {
-    getBooks();
-  }, []);
 
   function createSkeleton() {
     const skeletonArray = [];
@@ -46,31 +46,18 @@ function App() {
     return skeletonArray;
   }
 
-
-  // function handleOpenPopUp(title, authors, formats) {
-  //   console.log(title, authors, formats)
-  //   setBookInfos({ title, authors, formats });
-  //   console.log(bookInfos)
-  //   setPopUp(true);
-  // }
-
-
-
-  function handleOpenPopUp(title, authors, formats) {
-    setBookInfos({ title, authors, formats });
-  }
+  useEffect(() => {
+    if (sessionStorage.getItem("page")) {
+      console.log(sessionStorage.getItem("page"));
+      setPage(Number(sessionStorage.getItem("page")));
+    } else {
+      setPage(1);
+    }
+  }, []);
 
   useEffect(() => {
-    // Este useEffect será acionado sempre que bookInfos for atualizado
-    if (Object.keys(bookInfos).length > 0) {
-      console.log('foi aqui', bookInfos)
-      setPopUp(true);
-    }
-  }, [bookInfos]);
-
-  function closePopUp() {
-    setPopUp(false);
-  }
+    getBooks();
+  }, [page]);
 
   return (
     <>
@@ -83,17 +70,10 @@ function App() {
         {books.length === 0
           ? createSkeleton()
           : books.map((book, index) => (
-              <button
-                key={index}
-                onClick={() => handleOpenPopUp(book.title, book.authors, book.formats)}
-                className={s.bookButton}
-              >
-                <Book key={index} title={book.title} author={book.author} image={book.formats['image/jpeg']} />
-              </button>
+                <Book key={index} title={book.title} author={book.authors} image={book.formats} />
             ))}
       </div>
-
-      {popUp && <PopUp title={bookInfos.title} authors={bookInfos.authors} downloadAndImage={bookInfos.formats} closePopUp={closePopUp} />}
+      {data ? <Footer data={data} page={page} getBooks={getBooks}/> : null}
     </>
   );
 }
